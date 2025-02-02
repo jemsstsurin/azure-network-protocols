@@ -48,10 +48,8 @@ First you want to install Wireshark on your VM. Then open it and click the Blue 
 
 
 
-
-
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To configure a Firewall first you want to initiate a perpetual/non-stop ping (by typing "-t" after the private ip address) from your Windows 10 VM to your Ubuntu VM. Next open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic in the setting. In the Action section you're going to click Deny then click Add. To enable ICMP traffic you just delete the rule in the Inbound Security Rule.
 </p>
 <br />
 
