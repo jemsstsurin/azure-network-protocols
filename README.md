@@ -42,6 +42,9 @@ First you want to install Wireshark on your VM. Then open it and click the Blue 
 </p>
 <br />
 
+<img width="1168" alt="Screenshot 2025-02-02 at 5 29 10 PM" src="https://github.com/user-attachments/assets/5fb620b4-c76f-4a23-aa48-98e6eb979db9" />
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
