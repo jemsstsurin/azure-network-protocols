@@ -33,11 +33,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 
 ![image](https://github.com/user-attachments/assets/7af1e6b1-8b0e-4503-a977-ff05bb46ec3b)
-![image](https://github.com/user-attachments/assets/25d962ed-36eb-4776-a486-412efc7ba3e0)
+![image](https://github.com/user-attachments/assets/b5412408-9729-4f69-8325-e448f80bba9f)
+
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First you want to install Wireshark on your VM. Then open it and click the Blue Fin at the top left corner to Start Capturing Packets. Within Wireshark filter for ICMP traffic only. Then you retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM. Observe ping requests and replies within WireShark.
 </p>
 <br />
 
