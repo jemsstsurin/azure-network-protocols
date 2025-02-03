@@ -67,3 +67,14 @@ Back in Wireshark, start a packet capture up Filter for SSH traffic only From yo
 Back in Wireshark, filter for DHCP traffic only from your Windows 10 VM, attempt to issue your VM a new IP address from the command line open PowerShell as admin and run: ipconfig /renew
 observe the DHCP traffic appearing in WireShark
 </p>
+
+![image](https://github.com/user-attachments/assets/f9f8168a-057b-4c3d-90f3-63854cae4476)
+
+<p>
+Back in Wireshark, filter for DNS traffic only from your Windows 10 VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are observe the DNS traffic being show in WireShark
+</p>
+
+
+
+
+
