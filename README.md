@@ -61,6 +61,9 @@ To configure a Firewall first you want to initiate a perpetual/non-stop ping (by
 Back in Wireshark, start a packet capture up Filter for SSH traffic only From your Windows 10 VM,“SSH into” your Ubuntu Virtual Machine (via its private IP address). To do this you would open PowerShell, and type: ssh username<private IP address> Type commands (username, pwd, etc) onto the linux SSH connection and observe SSH traffic spam in WireShark Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 </p>
 
+![image](https://github.com/user-attachments/assets/b01d82a9-65c7-461c-9c56-1deb8591836c)
 
+<p>
+Back in Wireshark, filter for DHCP traffic only from your Windows 10 VM, attempt to issue your VM a new IP address from the command line open PowerShell as admin and run: ipconfig /renew
+observe the DHCP traffic appearing in WireShark
 </p>
-<br />
