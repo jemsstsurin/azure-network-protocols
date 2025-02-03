@@ -74,6 +74,13 @@ observe the DHCP traffic appearing in WireShark
 Back in Wireshark, filter for DNS traffic only from your Windows 10 VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are observe the DNS traffic being show in WireShark
 </p>
 
+![image](https://github.com/user-attachments/assets/37848de4-e5e5-41a3-b97e-7b6287372ce1)
+
+<p>
+ Back in Wireshark, filter for RDP traffic only (tcp.port == 3389) 
+</p>
+
+
 
 
 
