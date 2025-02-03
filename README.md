@@ -55,32 +55,14 @@ To configure a Firewall first you want to initiate a perpetual/non-stop ping (by
 
 ![image](https://github.com/user-attachments/assets/3ada330b-ef0d-4635-9f7f-3f939d8ff283)
 
+![image](https://github.com/user-attachments/assets/e24640be-8474-47d0-96cd-fcf59b85da05)
+
+
+
 <p>
   
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
