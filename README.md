@@ -57,10 +57,8 @@ To configure a Firewall first you want to initiate a perpetual/non-stop ping (by
 
 ![image](https://github.com/user-attachments/assets/e24640be-8474-47d0-96cd-fcf59b85da05)
 
-
-
 <p>
-  
+Back in Wireshark, start a packet capture up Filter for SSH traffic only From your Windows 10 VM,“SSH into” your Ubuntu Virtual Machine (via its private IP address). To do this you would open PowerShell, and type: ssh username<private IP address> Type commands (username, pwd, etc) onto the linux SSH connection and observe SSH traffic spam in WireShark Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 </p>
 
 
